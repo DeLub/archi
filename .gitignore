@@ -1,6 +1,9 @@
 bin/
 .settings/
 
+# Local Claude Code guidance file, not part of the project history
+CLAUDE.md
+
 # Ignore Maven generated folders
 # Although it would be better to copy the source folders first and run Maven on the copy...
 # Which is what I do via an Ant script
